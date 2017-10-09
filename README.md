@@ -7,5 +7,6 @@ int main()
 
 printf("测试");
 
+printf("测试");
 
 }
